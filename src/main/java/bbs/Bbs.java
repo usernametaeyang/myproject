@@ -1,5 +1,7 @@
 package bbs;
 
+
+// 게시판 정보 
 public class Bbs {
 	private int bbsID;
 	private String bbsTitle;
