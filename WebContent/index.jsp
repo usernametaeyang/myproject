@@ -12,6 +12,6 @@
 	<script>
 		location.href = 'main.jsp';
 	</script>
-hello world
+hello world Merge Git
 </body>
 </html>
